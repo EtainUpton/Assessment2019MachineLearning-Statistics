@@ -8,12 +8,12 @@ Etain's submission for Assessment 2019 module Machine Learning &amp; Statistics 
 
 Submission: The submission for this assessment must be in the form of a single GitHub repository.
 
-This assessment concerns the well-known Boston House Prices [1] dataset and the Python [3] packages scipy [2], keras [7], and jupyter [6]. The project is worth 100% of your marks for this module, but it is broken into three parts, as follows;
-*	(20%) Describe: Create a git repository and make it available online for the lecturer to clone. The repository should contain all your work for this assessment. Within the repository, create a jupyter [6] notebook that uses descriptive statistics and plots to describe the Boston House Prices [1] dataset. This part is worth 20% of your overall mark.
+This assessment concerns the well-known Boston House Prices dataset and the Python packages scipy, keras, and jupyter. The project is worth 100% of your marks for this module, but it is broken into three parts, as follows;
+*	(20%) Describe: Create a git repository and make it available online for the lecturer to clone. The repository should contain all your work for this assessment. Within the repository, create a jupyter notebook that uses descriptive statistics and plots to describe the Boston House Prices dataset. This part is worth 20% of your overall mark.
 *	(20%) Infer: To the above jupyter notebook, add a section where you use inferential statistics to analyse whether there is a signiﬁcant diﬀerence in median house prices between houses that are along the Charles river and those that aren’t. You should explain and discuss your ﬁndings within the notebook. This part is also worth 20%.
-*	(60%) Predict: Again using the same notebook, use keras [7] to create a neural network that can predict the median house price based on the other variables in the dataset. You are free to interpret this as you wish — for example, you may use all the other variables, or select a subset. This part is worth 60%.
+*	(60%) Predict: Again using the same notebook, use keras to create a neural network that can predict the median house price based on the other variables in the dataset. You are free to interpret this as you wish — for example, you may use all the other variables, or select a subset. This part is worth 60%.
 
-The minimum standard for this assessment is a git repository containing a README ﬁle written in Markdown [5] and a jupyter notebook containing your work. 
+The minimum standard for this assessment is a git repository containing a README ﬁle written in Markdown and a jupyter notebook containing your work. 
 The README should contain a summary of your work and provide instructions as to how to run the jupyter notebook and the web application. 
 A better project will be well laid out, clear and concise, and easily understood and run.
 
