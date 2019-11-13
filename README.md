@@ -1,5 +1,5 @@
 # Assessment2019MachineLearning-Statistics
-Etain's submission for Assessment 2019 module Machine Learning &amp; Statistics as part of the Higher Diploma in Data Analytics. Due: November 29th, 2019.
+Etain's submission for Assessment 2019 module Machine Learning &amp; Statistics as part of the Higher Diploma in Data Analytics. Due: ~~November 29th, 2019~~ Friday December 13th, 2019.
 
 Update: Ian has kindly given students an extension to the deadline for this project. The project will now be due any time on or before Friday December 13th.
 
