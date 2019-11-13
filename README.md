@@ -6,7 +6,7 @@ Update: Ian has kindly given students an extension to the deadline for this proj
 ## Module: Machine learning and statistics (52954)
 ## Lecturer: Dr Ian McLoughlin
 ## Student: Etain Upton G00318876
-## Assessment 2019 - Due: November 29th, 2019
+## Assessment 2019 - Due: ~~November 29th, 2019~~ Friday December 13th, 2019
 
 Submission: The submission for this assessment must be in the form of a single GitHub repository.
 
