@@ -29,7 +29,7 @@ Appropriate analysis of the relationship between the median house price and whet
 Well-trained neural network providing decent predictions of house prices based on the other variables. Good explanations of how to use the neural network and how it works.
 
 ##### Reminder on how to add a Jupyter Notebook:
-I reviewed a repository I previously submitted for a different module in which I had submitted a Jupyter Notebook. I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
+I reviewed a repository I previously submitted for a different module in which I had submitted a Jupyter Notebook (https://github.com/EtainUpton/52465Programming-for-Data-An.-Assignments). I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
 
 
 I should employ the use of Markdown cells – these cells allow the user to type text into the cell, but the cell will not expect Python code – it will expect text.
