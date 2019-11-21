@@ -27,3 +27,32 @@ Good summary of the dataset, repository well laid-out and organised. Reasonable 
 Appropriate analysis of the relationship between the median house price and whether the house borders the river, with good explanations of the analysis. 
 *	60% Predict; 
 Well-trained neural network providing decent predictions of house prices based on the other variables. Good explanations of how to use the neural network and how it works.
+
+#####Reminder on how to add a Jupyter Notebook
+I reviewed a repository I previously submitted for a different module in which I had submitted a Jupyter Notebook. I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
+
+
+I should employ the use of Markdown cells – these cells allow the user to type text into the cell, but the cell will not expect Python code – it will expect text.
+
+In order to utilise the Markdown Cell functionality the user must go to ‘Cell Type’ and click ‘Markdown’.
+
+Some useful notes from the 'Jupyter Keyboard Shortcuts Video';
+
+* For headings = #
+* For bullet points = -
+* Edit mode = green
+* Command mode = blue (not in edit mode)
+* Purpose of command mode = enable use of keyboard shortcuts more effectively. Example: move from cell to cell with the up and down keys.
+* To move from edit to command mode: press Escape button on keyboard
+* To move from command to edit = press enter
+
+Some useful notes;
+* How to change from a code cell to a markdown cell: press ‘m’ for markdown on your keyboard.
+* To convert back to code from markdown: press ‘y’
+* You can type any valid python code into a code cell. Then hold down shift & enter. Output provided to jupyter and displayed under the cell.
+* Markdown cells: double click on the rendered cell to edit it again.
+
+I utilised a github guide named ‘Mastering Markdown’; https://guides.github.com/features/mastering-markdown/
+
+* One # = top level heading.
+* To make markdown cells to look more attractive (to render the cell) hold down shift and press enter on keyboard.
