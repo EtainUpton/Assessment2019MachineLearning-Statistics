@@ -31,7 +31,7 @@ Well-trained neural network providing decent predictions of house prices based o
 ##### Reminder on how to add a Jupyter Notebook:
 I reviewed a repository I previously submitted for a different module in which I had submitted a Jupyter Notebook (https://github.com/EtainUpton/52465Programming-for-Data-An.-Assignments). I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
 
-![Screenshot](JupyterNotebook.jpg)
+![Screenshot](JupyterNotebookImage.jpg)
 
 I should employ the use of Markdown cells – these cells allow the user to type text into the cell, but the cell will not expect Python code – it will expect text.
 
