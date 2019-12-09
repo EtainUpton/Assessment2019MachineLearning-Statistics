@@ -49,8 +49,13 @@ The following marking scheme will be used to mark the project out of 100%. Stude
 *	20% Infer; Appropriate analysis of the relationship between the median house price and whether the house borders the river, with good explanations of the analysis.
 *	60% Predict; Well-trained neural network providing decent predictions of house prices based on the other variables. Good explanations of how to use the neural network and how it works.
 
+                                                                   *** 
+
 ##### Etain’s refresher on how to add a Jupyter Notebook:
-I reviewed a repository I previously submitted for a different module in which I had submitted a Jupyter Notebook (https://github.com/EtainUpton/52465Programming-for-Data-An.-Assignments). I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
+It had been a few months since I'd used Jupyter Notebook, so I had forgotten the basics on how to use it correctly. 
+I reviewed a repository I previously submitted for a different module in which I had submitted a Jupyter Notebook (https://github.com/EtainUpton/52465Programming-for-Data-An.-Assignments). I was able to quickly remind myself of how to correctly use the Jupyter Notebook again.
+
+I accessed Jupyter via the Anaconda Navigator as shown in the below screenshot;
 
 ![Screenshot](JupyterNotebookImage.jpg)
 
