@@ -78,8 +78,7 @@ Some useful notes;
 * To convert back to code from markdown: press ‘y’
 * You can type any valid python code into a code cell. Then hold down shift & enter. Output provided to jupyter and displayed under the cell.
 * Markdown cells: double click on the rendered cell to edit it again.
-
-I utilised a github guide named ‘Mastering Markdown’; https://guides.github.com/features/mastering-markdown/
-
 * One # = top level heading.
 * To make markdown cells to look more attractive (to render the cell) hold down shift and press enter on keyboard.
+
+I utilised a github guide named ‘Mastering Markdown’; https://guides.github.com/features/mastering-markdown/
