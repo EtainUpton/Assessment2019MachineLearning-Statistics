@@ -12,6 +12,9 @@ Update: Ian has kindly given students an extension to the deadline for this proj
 ## Student: Etain Upton G00318876
 ## Assessment 2019 - Due: ~~November 29th, 2019~~ Friday December 13th, 2019
 
+The README should contain a summary of your work and provide instructions as to how to run the jupyter notebook and the web application. 
+A better project will be well laid out, clear and concise, and easily understood and run.
+
 Submission: The submission for this assessment is in the form of a single GitHub repository.
 
 ### Summary of Etain’s work:
